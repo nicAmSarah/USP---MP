@@ -1,6 +1,6 @@
-name = input("Digite seu nome:")
-middlename = input("Digite seu nome do meio:")
-lastname = input("Digite seu ultimo nome:")
+name = input()
+middlename = input()
+lastname = input()
 
 print(name)
 print(lastname)
